@@ -1,12 +1,13 @@
 <h1>Financial Statement Reconciliation & Data Integrity System</h1>
 
-<p>The system is designed to support <strong>financial controls, data integrity, and auditability</strong>, simulating workflows in Finance and Accounting where incoming third-party statements must be reconciled against internally derived calculations.</p>
+<p>The system is designed to support <strong>financial controls, data integrity, and auditability</strong> for a family-owned business that receives weekly financial statements from external partners.</p>
 
 <h2>Background</h2>
 <p>Weekly financial statements are received as PDF files from external partners. These documents:</p>
 <ul>
     <li>Are unstructured and inconsistent</li>
     <li>May change line items week-to-week</li>
+    <li>Often include new or unexpected line items</li>
     <li>Require manual reconciliation</li>
     <li>Introduce risk of human error and missed discrepancies</li>
 </ul>
