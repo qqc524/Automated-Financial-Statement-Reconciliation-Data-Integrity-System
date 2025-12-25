@@ -1,4 +1,4 @@
-<h1>Automated Financial Statement Reconciliation & Data Integrity System</h1>
+<h1>Financial Statement Reconciliation & Data Integrity System</h1>
 
 <p>The system is designed to support <strong>financial controls, data integrity, and auditability</strong>, simulating workflows in Finance and Accounting where incoming third-party statements must be reconciled against internally derived calculations.</p>
 
@@ -81,7 +81,7 @@
     </li>
 </ul>
 
-<p class="tech">Technologies used:</p>
+<h1 class="tech">Technologies used:</h1>
 <ul>
     <li>Python</li>
     <li>PDF parsing (pdfplumber)</li>
