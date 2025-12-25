@@ -1,4 +1,4 @@
-<h1>Automated Financial Statement Reconciliation</h1>
+<h1>Automated Financial Statement Reconciliation & Data Integrity System</h1>
 
 <p>The system is designed to support <strong>financial controls, data integrity, and auditability</strong>, simulating workflows in Finance and Accounting where incoming third-party statements must be reconciled against internally derived calculations.</p>
 
