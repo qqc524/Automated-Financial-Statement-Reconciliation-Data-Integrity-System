@@ -81,7 +81,7 @@
     </li>
 </ul>
 
-<h1 class="tech">Technologies used:</h1>
+<h2 class="tech">Technologies used:</h2>
 <ul>
     <li>Python</li>
     <li>PDF parsing (pdfplumber)</li>
