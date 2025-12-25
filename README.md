@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Automated Financial Statement Reconciliation</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h1, h2, h3 { color: #2c3e50; }
-        ul { margin-left: 20px; }
-        code { background-color: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
-        .tech { font-weight: bold; }
-    </style>
-</head>
-<body>
-
 <h1>Automated Financial Statement Reconciliation</h1>
 
 <p>The system is designed to support <strong>financial controls, data integrity, and auditability</strong>, simulating workflows in Finance and Accounting where incoming third-party statements must be reconciled against internally derived calculations.</p>
